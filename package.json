@@ -1,0 +1,13 @@
+{
+    "name": "applausomat",
+    "version": "1.0.0",
+    "description": "HTML5 Applause meter",
+    "scripts": {
+        "start": "npx http-server"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "http-server": "*"
+    }
+}
