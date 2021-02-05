@@ -5,7 +5,7 @@
     "scripts": {
         "start": "npx http-server"
     },
-    "author": "",
+    "author": "Vukasin Toroman <vukasin@toroman.name>",
     "license": "ISC",
     "devDependencies": {
         "http-server": "*"
